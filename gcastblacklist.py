@@ -15,8 +15,8 @@
     -1001311056733,  # @BotTalk
     -1001067163791,  # @BotListChat
     -1001100649220,  # @enGroupHelp
-    -1001207616501,  # GroupsMusic EN
-    -1001412403011,  # GroupsMusic ID
+    -1001207616501,  # GroupsMusicEN
+    -1001412403011,  # GroupsMusicID
     -1001050982793,  # @Python
     -1001387666944,  # @PyrogramChat
     -1001221450384,  # @pyrogramlounge
