@@ -2,6 +2,8 @@
     -1001699144606,  # @kastaot
     -1001700971911,  # @kastaup
     -1001596433756,  # @MFIChat
+    -1001307868573,  # @MutualanCari_Teman
+    -1001261461928,  # @MutualanTemanRandom
     -1001697659804,  # @LSF_SupportGroup
     -1001256902287,  # @DurovsChat
     -1001341570295,  # @tgbetachat
