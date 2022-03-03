@@ -75,8 +75,8 @@
     -1001692751821,  # @ramsupportt
     -1001752592753,  # @skyzusupport
     -1001788983303,  # @KayzuSupport
-    -1001575341991,  # @KyuraSupport
     -1001705349543,  # @kyurasupport2
     -1001578091827,  # @PrimeSupportGroup
     -1001795125065,  # @allfucek
+    -1001380293847,  # @NastySupportt
 ]
