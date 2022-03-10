@@ -79,4 +79,5 @@
     -1001578091827,  # @PrimeSupportGroup
     -1001795125065,  # @allfucek
     -1001380293847,  # @NastySupportt
+    -1001122897608,  # @ootspambot
 ]
