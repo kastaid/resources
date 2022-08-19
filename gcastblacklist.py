@@ -48,6 +48,7 @@
     -1001312712379,  # @SpamWatchSupport
     -1001421589523,  # @tdspya
     -1001360494801,  # @OFIOpenChat
+    -1001275084637,  # @OFIChat
     -1001435671639,  # @xfichat
     -1001180648994,  # @FSGOpenChat
     -1001034868528,  # @GNULinuxIndonesia
