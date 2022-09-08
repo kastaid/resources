@@ -1,1 +1,1 @@
-["rm", "-delete", "unlink", "shred", "rsync", "sleep", "history", "dd", "chmod", "chown", "mkfs", "mkswap", "chroot", "fdisk", "poweroff", "shutdown", "reboot", "halt", "exec", "kill", "crontab", "perl", "while", ":()", "/dev", "sudo", "dpkg", "apt"]
+["rm", "-delete", "unlink", "shred", "rsync", "sleep", "history", "dd", "chmod", "chown", "mkfs", "mkswap", "chroot", "fdisk", "poweroff", "shutdown", "reboot", "halt", "exec", "kill", "crontab", "perl", "while", ":()", "/dev", "sudo", "dpkg", "apt", "pkill"]
