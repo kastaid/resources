@@ -3,14 +3,15 @@
     -1001700971911,  # @kastaup
     -1001596433756,  # @MFIChat
     -1001261461928,  # @tongkronganvirtuals
-    -1001697659804,  # @LSF_SupportGroup
     -1001256902287,  # @DurovsChat
     -1001341570295,  # @tgbetachat
     -1001336679475,  # @tgandroidtests
     -1001120290128,  # @plusmsgrchat
     -1001160743396,  # @catoxchat
     -1001736478270,  # @catoxbeta
-    -1001349472891,  # @nekodiscussen
+    -1001349472891,  # @NekoChat
+    -1001672748705,  # @OwlGramChat
+    -1001060755082,  # @unigraminsiders
     -1001412570001,  # @turbo_comments
     -1001214141592,  # @BGramOfficial
     -1001311056733,  # @BotTalk
@@ -31,6 +32,7 @@
     -1001471736013,  # @TelegrafJSChat
     -1001362553260,  # @ntbasupport
     -1001180212174,  # @gramjschat
+    -1001493653006,  # @grammyjs
     -1001115145822,  # @PHP_Telegram_Bot_Support
     -1001054519222,  # @botphp
     -1001052242766,  # @pythonID
@@ -67,17 +69,15 @@
     -1001199597035,  # @catuserbotot
     -1001328289290,  # @ftgchat
     -1001318017044,  # @tgpaperplane
-    -1001062690377,  # @SohbetDoge
+    -1001794915063,  # @xorchat
+    -1001438865481,  # @Dragon_Userbot_chat_en
     -1001733534088,  # @YukkiSupport
     -1001473548283,  # @SharingUserbot
     -1001433238829,  # @TedeSupport
     -1001459812644,  # @GeezSupport
     -1001692751821,  # @ramsupportt
-    -1001752592753,  # @skyzusupport
-    -1001788983303,  # @KayzuSupport
-    -1001705349543,  # @kyurasupport2
     -1001578091827,  # @PrimeSupportGroup
     -1001795125065,  # @allfucek
-    -1001380293847,  # @NastySupportt
-    -1001122897608,  # @ootspambot
+    -1001580130925,  # @XiaomiGamersID
+    -1001119512908,  # @pythonofftopic
 ]
