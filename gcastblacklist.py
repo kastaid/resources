@@ -80,4 +80,5 @@
     -1001795125065,  # @allfucek
     -1001580130925,  # @XiaomiGamersID
     -1001119512908,  # @pythonofftopic
+    -1001578266225,  # @LPM_Linux
 ]
