@@ -1,4 +1,3 @@
 # resources
-> ツ **Maintainable** source for **KASTA** projects.
 
-~ **PR are welcome.**
+**Maintainable source for KASTA projects — PRs are welcome**
