@@ -1,29 +1,31 @@
 [
-    -1001699144606,  # @kastaot
-    -1001700971911,  # @kastaup
+    -1004429397890,  # @kastaot
     -1001596433756,  # @MFIChat
     -1001256902287,  # @DurovsChat
     -1001341570295,  # @tgbetachat
     -1001336679475,  # @tgandroidtests
-    -1001120290128,  # @plusmsgrchat
     -1001311056733,  # @BotTalk
+    -1001067163791,  # @BotListChat
+    -1001519999299,  # @devs
+    -1001462184683,  # @tginfochaten
+    -1001120290128,  # @plusmsgrchat
     -1001050982793,  # @Python
     -1001109500936,  # @TelethonChat
+    -1001999755950,  # @kurigram_chat
     -1001185324811,  # @pytgcallschat
     -1001030379032,  # @pythontelegrambotgroup
     -1001060639878,  # pyTelegramBotAPI
     -1001149172137,  # @aiogram
     -1001471736013,  # @TelegrafJSChat
     -1001054519222,  # @botphp
+    -1001109837870,  # @botindonesia
     -1001052242766,  # @pythonID
     -1001388932280,  # @combotchat
     -1001235155926,  # @RoseSupportChat
     -1001422698150,  # @EmiliaOfficial
     -1001270516701,  # @HarukaAyaGroup
-    -1001408942668,  # @OnePunchSupport
     -1001398044158,  # @antispamchat
     -1001362887936,  # @cas_discussion
-    -1001312712379,  # @SpamWatchSupport
     -1001421589523,  # @tdspya
     -1001360494801,  # @OFIOpenChat
     -1001275084637,  # @OFIChat
